@@ -1,4 +1,4 @@
-# Game_by_python
+## Ping-Pong
 
 ## Basic Requirements on OS
 * pip
