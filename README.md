@@ -1,4 +1,4 @@
-## Ping-Pong
+# Ping-Pong
 
 ## Basic Requirements on OS
 * pip
